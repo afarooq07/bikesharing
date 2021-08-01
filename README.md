@@ -5,6 +5,13 @@ The purpose of this analysis is to explore the idea and feasibility of a bike sh
 
 The scope of the analysis is to put together a strong business proposal using key findings from NY Citibike data to provide investors/stakeholders confidence in backing a similar bike sharing business in Des Moines, Iowa.
 
+## Resources
+- Tableau Public Link: https://public.tableau.com/app/profile/ayesha.farooq/viz/Bikesharing-Challenge/Story1?publish=yes
+- Images: /images
+- Jupyter Notebook: NYC_Citibike_Challenge.ipynb
+- Note: I have not been unable to upload csv files because of file too large error in GIT (the file size exceed GitHub's file size limit of 100.00 MB).
+
+
 ## Results
 In order to evaluate the feasibility of bike sharing business in Des Moine, its important to understand how the business model works using data from an already established market, NY CitiBikes.
 
