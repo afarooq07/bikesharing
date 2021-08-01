@@ -14,11 +14,34 @@ Using CitiBike analysis, we will determine bike utilization, peak hours, target 
 Lets first check how long are bikes usually checked out. This will give insight into checkout times patterns, to determine if there is a popular checkout duration.
 
 <br /> 
+
 **Checkout Times for All Users:**
 
-The graph below shows the length of time that bikes are checked out for all riders. We can see that most rider typically rent out the bike for 0-23 mins approx with the peak at 5 mins duration. So most of the rides are short distance which makes sense given that data is from NYC.
+The graph below shows the length of time that bikes are checked out for all riders. We can see that most riders typically rent the bike for approx 0-23 mins with the peak at 5 mins duration. So most of the rides are short distance which makes sense given that data is from NYC.
+
 <br /> 
 <img src="images/checkout_times_for_all_users.png" width=700 align=center>
+<br /> 
+
+**Checkout Times by Gender:**
+The chart below shows the length of time the bikes are checked out for each gender. Popular checkout is still approx 0-23 mins but we can clearly see that most rides are male.
+
+<br /> 
+<img src="images/checkout_times_by_gender.png" width=700 align=center>
+<br /> 
+
+
+
+**Trips by Weekday for Each Hour:**
+This graph shows the number of bike trips by weekday for each hour of the day as a heatmap. This will help us understand the peak hours so that there is a high availability of bikes during that time.
+
+We see two patterns: 1) Weekday peak hours are roughly between 7-10am and 5-8pm and (2) weekend peak hours are 10am-8pm with more riders renting bikes on Saturdays as compared to Sundays
+
+<br /> 
+<img src="images/trips_by_weekday_by_hour.png" width=700 align=center>
+<br /> 
+
+
 
 ## Summary
 
